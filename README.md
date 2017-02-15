@@ -1,0 +1,1 @@
+# thermald-conf-asus-G750J
